@@ -24,7 +24,9 @@ short_bio: >-
   <p>
       Hello, I am a undergraduate student advised by Prof. <a href="https://sites.google.com/view/hisw/professor?authuser=0" target="_blank">Eunkyung Kim</a> at <a href="https://sites.google.com/view/hisw/home?authuser=0" target="_blank">iSW Lab</a>, Hanbat National University. 
   </p>
-
+  <p>
+      I have a strong interest in IoT and Artificial Intelligence, focusing on the development of intelligent, connected systems. My work involves integrating Reinforcement Learning to enhance automation and efficiency in IoT applications. I am eager to contribute to innovative projects that leverage AI-driven IoT solutions for real-world impact.  
+  </p>
 portrait_url: /assets/images/photos/eunsil.png
 #portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
