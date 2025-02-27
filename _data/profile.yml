@@ -36,14 +36,14 @@ education:
   date: Mar. 2023 - Present
 
 experience:
-- name: Ericsson-LG (Seoul, South Korea)
+- name: Ericsson-LG
   logo: /assets/images/badges/Ericsson logo.png
   position: Research Intern
   date: July. 2025 - Aug. 2025(Expected)
   
-- name: UCSI Internship (Kuala Lumpur, Malaysia)
+- name: UCSI University, Malaysia
   logo: /assets/images/badges/ucsi_logo_box.jpg
-  position: Research Intern
+  position: Internship Program
   date: Aug. 2024
 
 awards:
