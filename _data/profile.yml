@@ -36,6 +36,11 @@ education:
   date: Mar. 2023 - Present
 
 experience:
+- name: Ericsson
+  logo: /assets/images/badges/Ericsson logo.png
+  position: Research Intern
+  date: July. 2025 - Aug. 2025(Expected)
+  
 - name: UCSI Internship
   logo: /assets/images/badges/ucsi_logo_box.jpg
   position: Research Intern
