@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Eunsil Choi"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#  name: Position 1 with logo
+- name: Undergraduate Student
 
 
 email: "eunsil0733@naver.com"
@@ -25,7 +25,7 @@ short_bio: >-
       Hello, I am a undergraduate student advised by Prof. <a href="https://sites.google.com/view/hisw/professor?authuser=0" target="_blank">Eunkyung Kim</a> at <a href="https://sites.google.com/view/hisw/home?authuser=0" target="_blank">iSW Lab</a>, Hanbat National University. 
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/eunsil.png
 #portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
